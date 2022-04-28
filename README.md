@@ -6,9 +6,6 @@
 <a href="https://www.linkedin.com/in/eduardolops/">
   <img align="left" alt="Eduardo Lopes Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://github.com/edulops">
-  <img align="left" alt="Eduardo Lopes Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
-</a>
 <a href="https://instagram.com/eduardolops">
   <img align="left" alt="Eduardo Lopes Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
