@@ -14,7 +14,7 @@
 
 A little intro about me:
 
-<!--- 🖥︎  I'm currently working on an amazing company called **[<span style="color: blue">Remessa Online</span>](https://www.remessaonline.com.br)**, building **web, mobile and server-side solutions** to transform users' experience for the better on the platform -->
+- 🖥︎  I'm currently working on an amazing company called **[<span style="color: blue">Remessa Online</span>](https://www.remessaonline.com.br)**, building **web, mobile and server-side solutions** to transform users' experience for the better on the platform
 - 📚  I love working collaboratively as a team, break complex problems into small pieces, craft solutions, and coding them
 - 🚴🏽‍♀️ Fun fact:  I wake up early in the morning to do a physical activity
 <br></br>
